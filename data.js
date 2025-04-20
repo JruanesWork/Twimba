@@ -1,6 +1,6 @@
 export const tweetsData = [   
     {
-        handle: `@TrollBot66756542 💎`,
+        handle: `@TrollBot66756542xx 💎`,
         profilePic: `/images/troll.jpg`,
         likes: 27,
         retweets: 10,
